@@ -1,4 +1,7 @@
 import * as React from 'react';
+import gaze from  './assets/guard_gaze.png'
+import eye from  './assets/police_eye.png'
+import lens from  './assets/security_lens.png'
 
 function ControlPanel() {
   return (
@@ -7,29 +10,43 @@ function ControlPanel() {
       <p>
       marginalized groups throughout the world have been subjected to various forms of surveillance since the onset of global colonialism. since then, the technology has only grown more sophisticated and violent in nature while these forces continues to exist as a normalized part of our lives. those who are subjected to these oppresive systems of control, which will eventually be everyone, can work to obstruct and circumvent the ever expanding tools of control.  
       </p>
-      <p>
-        Paragraph
-      </p>
-      <div className="source-link">
+
+      <div className="symbol-legend">
+          <div className="legend-item">
+            <img src={gaze} width={75} />
+            <h2>Guardian Gaze</h2>
+          </div>
+          <div className="legend-item">
+            <img src={eye} width={75} />
+            <h2>Police Surveillance</h2>
+          </div>
+          <div className="legend-item">
+            <img src={lens} width={75} />
+            <h2>Security Lens</h2>
+          </div>
+    
+      <div className="control-panel-links">
         <a
-          href="https://github.com/visgl/react-map-gl/tree/7.0-release/examples/controls"
+          href="https://www.figma.com/proto/AnC01vRIvAqi8O2t2iOloA/tech_of_prtoest_final_presenation?node-id=601%3A18&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=601%3A18"
           target="_blank"
         >
           Presentation
         </a>
         <a
-          href="https://github.com/visgl/react-map-gl/tree/7.0-release/examples/controls"
+          href="https://drive.google.com/file/d/1Mxr05sc_Bz75MQIcHp-zZM5bnN3cM5ru/view?usp=sharing"
           target="_blank"
         >
-          Website
+          Zine
         </a>
         <a
-          href="https://github.com/visgl/react-map-gl/tree/7.0-release/examples/controls"
+          href="https://github.com/gabedeko/anti-surveillance-mapping"
           target="_blank"
         >
-          Map Code
+          Code
         </a>
       </div>
+          
+        </div>
     </div>
   );
 }

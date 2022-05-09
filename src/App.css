@@ -22,3 +22,14 @@ body {
   text-transform: uppercase;
   outline: none;
 }
+
+
+.control-panel-links, .symbol-legend {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.legend-item {
+  display: flex;
+}

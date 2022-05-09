@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Anti-Surveillance Mapping
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technology of Protest
+## Art, Media, and Technology
+
+### Drake Reed | Gabriel-Lee Dekoladenu
+
+marginalized groups throughout the world have been subjected to various forms of surveillance since the onset of global colonialism. since then, the technology has only grown more sophisticated and violent in nature while these forces continues to exist as a normalized part of our lives. those who are subjected to these oppresive systems of control, which will eventually be everyone, can work to obstruct and circumvent the ever expanding tools of control. 
+
+
+[Link to Presentation](https://www.figma.com/proto/AnC01vRIvAqi8O2t2iOloA/tech_of_prtoest_final_presenation?node-id=601%3A18&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=601%3A18)
+[Link to Zine](https://6279788def6dcc100fdd86f4--peppy-dango-453656.netlify.app/)
+[Link to Map](https://6279788def6dcc100fdd86f4--peppy-dango-453656.netlify.app/)
+
+This app uses react-map-gl. More information on the service can be found [here](https://visgl.github.io/react-map-gl/)
+
+
 
 ## Available Scripts
 
@@ -39,32 +53,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
