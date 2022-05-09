@@ -1,0 +1,5 @@
+[
+  {"type":"Police Surveillance","city":"New York","neigborhood":"Lower East Side","population":"8,175,133","image":"https://portfolio.newschool.edu/dekog666/files/2022/05/police_shooting_0.jpg","state":"New York","latitude":40.72756366307824,"longitude":-73.98769497884544,"desc":"Undercover police officers posing as non-affiliated citizens"},
+  {"type":"Police Surveillance","city":"New York","neigborhood":"East Village","population":"3,792,621","image":"https://portfolio.newschool.edu/dekog666/files/2022/05/police_shooting_1.jpg","state":"California","latitude":40.71754609340872,"longitude":-73.98383259783866,"desc":"Heightened police presence in subways due to recent crimes"},
+  {"type":"Police Surveillance","city":"Brooklyn","neigborhood":"Navy Yard","population":"2,695,598","image":"https://portfolio.newschool.edu/dekog666/files/2022/05/police_shooting_2.jpg","state":"Illinois","latitude":40.69659539444431,"longitude":-73.98306012157664,"desc":"Blue lives matter demonstration in response to BLM protests"}
+]
