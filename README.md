@@ -9,7 +9,9 @@ marginalized groups throughout the world have been subjected to various forms of
 
 
 [Link to Presentation](https://www.figma.com/proto/AnC01vRIvAqi8O2t2iOloA/tech_of_prtoest_final_presenation?node-id=601%3A18&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=601%3A18)
+
 [Link to Zine](https://6279788def6dcc100fdd86f4--peppy-dango-453656.netlify.app/)
+
 [Link to Map](https://6279788def6dcc100fdd86f4--peppy-dango-453656.netlify.app/)
 
 This app uses react-map-gl. More information on the service can be found [here](https://visgl.github.io/react-map-gl/)
