@@ -23,6 +23,10 @@ body {
   outline: none;
 }
 
+.control-panel p {
+  font-size: 12px;
+}
+
 
 .control-panel-links, .symbol-legend {
   display: flex;
@@ -32,4 +36,14 @@ body {
 
 .legend-item {
   display: flex;
+}
+
+.control-panel-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.control-panel-footer h5 {
+  margin: 0;
 }

@@ -14,15 +14,15 @@ function ControlPanel() {
       <div className="symbol-legend">
           <div className="legend-item">
             <img src={gaze} width={75} />
-            <h2>Guardian Gaze</h2>
+            <h3>Guardian Gaze</h3>
           </div>
           <div className="legend-item">
             <img src={eye} width={75} />
-            <h2>Police Surveillance</h2>
+            <h3>Police Surveillance</h3>
           </div>
           <div className="legend-item">
             <img src={lens} width={75} />
-            <h2>Security Lens</h2>
+            <h3>Security Lens</h3>
           </div>
     
       <div className="control-panel-links">
@@ -44,6 +44,12 @@ function ControlPanel() {
         >
           Code
         </a>
+      </div>
+
+      <div className="control-panel-footer">
+        <h5>Technology of Protest</h5>
+        <h5>Art, Media, and Technology</h5>
+        <h5>Spring 2022</h5>
       </div>
           
         </div>
